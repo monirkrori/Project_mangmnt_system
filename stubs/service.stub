@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Services;
+use Illuminate\Support\Facades\Log;
+
+class {{ serviceName }}
+{
+    /**
+     * Create a new service instance.
+     */
+    public function __construct()
+    {
+        //
+    }
+}
